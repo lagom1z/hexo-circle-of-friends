@@ -59,7 +59,7 @@ GITEE_FRIENDS_LINKS: {
 GITHUB_FRIENDS_LINKS: {
     enable: true, # true 开启github issue兼容
     type: "volantis",  # volantis/stellar用户请在这里填写volantis
-    owner: "lagom1z",  # 填写你的github用户名
+    owner: "y1ong",  # 填写你的github用户名
     repo: "blog-timeline",  # 填写你的github仓库名
     state: "open",  # 填写抓取的issue状态(open/closed)
     label: "cyberspace",  # 填写抓取的issue标签
